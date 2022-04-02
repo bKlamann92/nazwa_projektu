@@ -1,5 +1,5 @@
 /* komentarz wieloliniowy
-tutaj mogę towrzyć
+tutaj mogę tworzyć
 wiele
 linii kodu
  */
@@ -11,6 +11,7 @@ linii kodu
  */
 public class NowaKlasa {
     // Do zrobienia
+    // To jest zmiana w pliku
     // TODO: musze wstawic pranie
     // TODO: musze wstawic pranie
     // TODO: musze wstawic pranie
